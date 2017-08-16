@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Background Move/BackGround.unity
+  isLoaded: 1
+  isActive: 1
